@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-reed-switch",
+  "title": "reed-switch",
+  "keywords": "reed-switch, esp32, esp8266, arduino",
+  "description": "reed-switch plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-reed-switch/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-reed-switch/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
